@@ -1,1 +1,1 @@
-Contains exercise practice of various Python exercises
+Contains exercises to prepare for Python AI
